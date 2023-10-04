@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: StatefulSet
 metadata:
-  name: demo-statefulSet-1
+  name: demo-statefulset-1
 spec:
   replicas: 2
   selector:
